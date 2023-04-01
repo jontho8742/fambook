@@ -12,8 +12,8 @@ Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
-You may have to manually reload the page with http://localhost:3000/LoginArea
-Upon the Login Page, enter your email address and enter a password and you will beforwarded to
+You may have to manually reload the browser page with http://localhost:3000/LoginArea
+Upon the Login Page, enter your email address and enter a password and you will be forwarded to
 http://localhost:3000/HeaderArea
 You may also see any lint errors in the console.
 
